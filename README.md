@@ -4,7 +4,7 @@ This simple form was written by me using the React library and styled using CSS.
 
 ## Screenshots of the application
 
-![Screenshot](public/screen.PNG)
+![Screenshot](public/screen.png)
 
 ## Available Scripts
 
